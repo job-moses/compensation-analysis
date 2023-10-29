@@ -1,0 +1,18 @@
+Column,Question
+age_group,How old are you?
+industrial_sector,What industry do you work in?
+job_title,Job title
+job_clarify,"If your job title needs additional context, please clarify here:"
+annual_salary,"What is your annual salary? (You'll indicate the currency in a later question. If you are part-time or hourly, please enter an annualized equivalent -- what you would earn if you worked the job 40 hours a week, 52 weeks a year.)"
+benefits,"How much additional monetary compensation do you get, if any (for example, bonuses or overtime in an average year)? Please only include monetary compensation here, not the value of benefits."
+currency,Please indicate the currency
+more_info,"If ""Other,"" please indicate the currency here: "
+more_context,"If your income needs additional context, please provide it here:"
+country,What country do you work in?
+state_in_us,"If you're in the U.S., what state do you work in?"
+city,What city do you work in?
+years_pro,How many years of professional work experience do you have overall?
+years_pro_field,How many years of professional work experience do you have in your field?
+education_level,What is your highest level of education completed?
+gender,What is your gender?
+race,What is your race? (Choose all that apply.)
